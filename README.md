@@ -25,8 +25,11 @@ These learned distributions are then used in simulation studies to compare metho
 - `learn 1.4` and `learn 1.4.1`  
   Learn the conditional distribution associated with the trimmed standard deviation.
 
-- `simulation_final13.ipynb`  
+- `simulation_final13`  
   Provides one example simulation study under a well-specified setting, where the prior on the variances is inverse-gamma.
+  
+- `sanity check4.15`  
+  Sanity check for MAD\_mean-based p-values: analytic versus simulated results.
 
 ## Current focus
 
